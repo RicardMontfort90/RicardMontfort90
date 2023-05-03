@@ -108,22 +108,6 @@ After all, a web developer is like a sculptor, right? 🗿
         width="30"
       />
     </a>
-    &nbsp;
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.icons8.com/color/512/tableau-software.png"
-        alt="tableau"
-        width="30"
-      />
-    </a>
-         &nbsp;
-    <a href="https://www.miro.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.freelogovectors.net/wp-content/uploads/2021/12/mirologo-freelogovectors.net_.png"
-        alt="miro"
-        width="30"
-      />
-    </a>
   </p>
 </div>
 
