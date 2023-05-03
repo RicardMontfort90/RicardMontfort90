@@ -13,7 +13,7 @@ I like the way I can be analytical and imaginative while writing code at the sam
 
 After all, a web developer is like a sculptor, right? 🗿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=400&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=700&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
 
 
 
