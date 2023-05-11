@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=3000&pause=1000&color=1EF76B&multiline=true&width=435&lines=Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=4000&pause=1000&color=1EF76B&multiline=true&width=435&lines=Always+learning+%F0%9F%93%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&duration=3500&pause=1000&color=1EF76B&multiline=true&width=435&lines=Always+learning+%F0%9F%93%96)](https://git.io/typing-svg)
 
 I worked as a private firefighter👨🏻‍🚒.
 But one day I decided to make a change in my life. Since I couldn't explore all the creativity and ideas that I had in my mind
